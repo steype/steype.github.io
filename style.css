@@ -1,0 +1,27 @@
+body {
+	background-color: #c0f2f7;
+}
+h1 {
+	color: black;
+	font-size: 25px;
+	font-family: helvetica;
+	
+}
+h2 {
+		color: black;
+	font-size: 15px;
+	font-family: helvetica;
+	text-align: center;
+}
+body {text-align: center;
+	text-decoration: none;
+
+}
+a {
+	text-decoration: none
+}
+
+.red-box{
+	height: 200px
+	
+}
